@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  dfaia
 
 # Build settings
-theme: jekyll-cayman
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
